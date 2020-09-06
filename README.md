@@ -1,2 +1,2 @@
 # hybrid-multi-cloud-tasks
-repository consist all the tasks of hybrid-multicloud-training
+repository consist of all the tasks of hybrid-multi-cloud-training
